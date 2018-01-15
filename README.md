@@ -6,7 +6,7 @@ All coursework for the Java Masterclass, learning Java 8 and Java 9 core develop
 
 - [x] Section 01 - First Steps
 - [x] Section 02 - Variables, Datatypes and Operators
-- [ ] Section 03 - Expressions, Statements, Code blocks, Methods and more
+- [x] Section 03 - Expressions, Statements, Code blocks, Methods and more
 - [ ] Section 04 - Control Flow Statements
 - [ ] Section 05 - OOP Part 1 - Classes, Constructors and Inheritance
 - [ ] Section 06 - OOP Part 2 - Composition, Encapsulation, and Polymorphism
