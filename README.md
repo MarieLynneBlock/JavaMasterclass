@@ -7,10 +7,10 @@ All coursework for the Java Masterclass, learning Java 8 and Java 9 core develop
 - [x] Section 01 - First Steps
 - [x] Section 02 - Variables, Datatypes and Operators
 - [x] Section 03 - Expressions, Statements, Code blocks, Methods and more
-- [ ] Section 04 - Control Flow Statements
-- [ ] Section 05 - OOP Part 1 - Classes, Constructors and Inheritance
-- [ ] Section 06 - OOP Part 2 - Composition, Encapsulation, and Polymorphism
-- [ ] Section 07 - Arrays, Java inbuilt Lists, Autoboxing and Unboxing
+- [x] Section 04 - Control Flow Statements
+- [x] Section 05 - OOP Part 1 - Classes, Constructors and Inheritance
+- [x] Section 06 - OOP Part 2 - Composition, Encapsulation, and Polymorphism
+- [x] Section 07 - Arrays, Java inbuilt Lists, Autoboxing and Unboxing
 - [ ] Section 08 - Inner and Abstract Classes & Interfaces
 - [ ] Section 09 - Java Generics
 - [ ] Section 10 - Naming Conventions and Packages. static and final keywords
