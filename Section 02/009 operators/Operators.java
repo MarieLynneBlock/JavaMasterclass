@@ -1,5 +1,3 @@
-import com.sun.org.apache.xpath.internal.SourceTree;
-
 public class Operators {
 
     public static void main(String[] args) {
@@ -54,5 +52,24 @@ public class Operators {
         int secondTopScore = 80;
         if(topScore > secondTopScore && topScore < 100)
             System.out.println("Greater than second top score and less than 100");
+
+        if((topScore > 90) || (secondTopScore <= 90))
+            System.out.println("One of these tests is true");
+
+        int newValue = 50;
+        if(newValue == 50)
+            System.out.println("This is true");
+
+
+        //
+
+        boolean isCar = false;
+        if(isCar == true)
+            System.out.println("This is not supposed to happen");
+
+        isCar = true;
+        boolean wasCar == isCar ? true : false;
+        if(wasCar)
+            System.out.println("wasCar is true");
     }
 }
