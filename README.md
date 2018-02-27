@@ -20,7 +20,7 @@ All coursework for the Java Masterclass, learning Java 8 and Java 9 core develop
 - [ ] Section 14 - Concurrency in Java
 - [ ] Section 15 - Lambda Expressions
 - [ ] Section 16 - Regular Expressions
-- [ ] Section 17 - Debugging and Unit Testing
+- [x] Section 17 - Debugging and Unit Testing
 - [ ] Section 18 - Databases
 - [ ] Section 19 - Java Networking Programming
 - [x] Section 20 - Bonus Material
