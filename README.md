@@ -11,10 +11,10 @@ All coursework for the Java Masterclass, learning Java 8 and Java 9 core develop
 - [x] Section 05 - OOP Part 1 - Classes, Constructors and Inheritance
 - [x] Section 06 - OOP Part 2 - Composition, Encapsulation, and Polymorphism
 - [x] Section 07 - Arrays, Java inbuilt Lists, Autoboxing and Unboxing
-- [ ] Section 08 - Inner and Abstract Classes & Interfaces
-- [ ] Section 09 - Java Generics
-- [ ] Section 10 - Naming Conventions and Packages. static and final keywords
-- [ ] Section 11 - Java Collections
+- [x] Section 08 - Inner and Abstract Classes & Interfaces
+- [x] Section 09 - Java Generics
+- [x] Section 10 - Naming Conventions and Packages. static and final keywords
+- [x] Section 11 - Java Collections
 - [ ] Section 12 - JavaFX
 - [ ] Section 13 - Basic Input & Output including java.util
 - [ ] Section 14 - Concurrency in Java
