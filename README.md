@@ -23,4 +23,4 @@ All coursework for the Java Masterclass, learning Java 8 and Java 9 core develop
 - [ ] Section 17 - Debugging and Unit Testing
 - [ ] Section 18 - Databases
 - [ ] Section 19 - Java Networking Programming
-- [ ] Section 20 - Bonus Material
+- [x] Section 20 - Bonus Material
