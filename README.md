@@ -18,7 +18,7 @@ All coursework for the Java Masterclass, learning Java 8 and Java 9 core develop
 - [ ] Section 12 - JavaFX
 - [ ] Section 13 - Basic Input & Output including java.util
 - [ ] Section 14 - Concurrency in Java
-- [ ] Section 15 - Lambda Expressions
+- [x] Section 15 - Lambda Expressions
 - [ ] Section 16 - Regular Expressions
 - [x] Section 17 - Debugging and Unit Testing
 - [ ] Section 18 - Databases
